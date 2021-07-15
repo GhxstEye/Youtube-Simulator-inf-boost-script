@@ -1,0 +1,19 @@
+--This script is made by GhostEye#9620 ID: 376481217522040835
+
+--Inf drink script V.1 start
+
+local string_1 = "Super Energy";
+local Target = game:GetService("ReplicatedStorage").useItem;
+Target:FireServer(string_1);
+wait()
+local string_1 = "Speedy Soda";
+local Target = game:GetService("ReplicatedStorage").useItem;
+Target:FireServer(string_1);
+wait()
+local string_1 = "Pink Soda";
+local Target = game:GetService("ReplicatedStorage").useItem;
+Target:FireServer(string_1);
+wait()
+local string_1 = "Blue Soda";
+local Target = game:GetService("ReplicatedStorage").useItem;
+Target:FireServer(string_1);
